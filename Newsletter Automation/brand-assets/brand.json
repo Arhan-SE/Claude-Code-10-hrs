@@ -1,0 +1,12 @@
+{
+  "primary_color": "#1a56db",
+  "accent_color": "#e3efff",
+  "background_color": "#f9fafb",
+  "text_color": "#111928",
+  "font_family": "Inter, Arial, sans-serif",
+  "logo_filename": "logo.png",
+  "sender_name": "ScaleXAI",
+  "sender_email": "arhan@scalexai.tech",
+  "website_url": "https:/scalexai.tech",
+  "footer_address": "ScaleXAI · 2nd Block · Manglore, 575030"
+}

@@ -1,0 +1,8 @@
+openai
+tavily-python
+fal-client
+premailer
+html2text
+matplotlib
+pillow
+python-dotenv
